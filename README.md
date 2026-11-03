@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🥠
 > Completed my bachelor's degree in Computer Science at the University of Bologna (2023–2026).
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
