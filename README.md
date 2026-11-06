@@ -3,7 +3,7 @@
 #### Bachelor's degree in Computer Science
 University of Bologna (2023–2026) | Final Grade: 105/110
 - **Bachelor's Thesis**: "Large Language Models and Fake News. Containers vs. Content: Assessing the Impact of Distinct Formats on LLMs for Fact-Checking against traditional Machine Learning"
-- **Overview**: assessing the impact of prompt formatting on small open-weight LLMs in fact-checking tasks, through the computation of both standard metrics (accuracy, f1-score,...) and stability / robustness metrics (Cohen's Kappa, ...).
+- **Overview**: assessing the impact of prompt formatting on small open-weight LLMs in fact-checking tasks, through the computation of both standard metrics (accuracy, f1-score,...) and stability / robustness metrics (Cohen's Kappa, ...). Implemented using Ollama and Python. 
 - **Repository**: https://github.com/EleFerrzz28/Tesi_LLM-FakeNews
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
